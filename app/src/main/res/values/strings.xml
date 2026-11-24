@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI 沟通助手</string>
+    <string name="app_name_en">AI Social Copilot</string>
+    <string name="channel_overlay">悬浮球</string>
+    <string name="channel_capture">屏幕捕获</string>
+    <string name="notif_overlay_title">悬浮球已开启</string>
+    <string name="notif_overlay_text">点按返回应用，或从通知栏关闭</string>
+    <string name="notif_capture_title">正在截取屏幕</string>
+    <string name="notif_capture_text">仅截取你选中的区域</string>
+    <string name="accessibility_label">填入回复</string>
+    <string name="accessibility_summary">点一下候选回复，自动填入聊天输入框</string>
+    <string name="accessibility_description">只在你点击某条候选回复时，把那条文字写入当前聊天输入框。不会读取、不会保存聊天内容，也不会替你按下发送键。可以随时在系统设置里关闭。</string>
+</resources>
